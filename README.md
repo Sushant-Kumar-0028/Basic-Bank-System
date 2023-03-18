@@ -14,5 +14,5 @@ We can add new users.
 4)PHP
 
 
-# This project is a task by Sparks Academy Internship Programme
+# This project is a task by Sparks Foundation Internship Programme
 Sushant Kumar
