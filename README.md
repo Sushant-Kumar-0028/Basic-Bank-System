@@ -13,6 +13,3 @@ We can add new users.
 3)BOOTSTRAP
 4)PHP
 
-
-# This project is a task by Sparks Foundation Internship Programme
-Sushant Kumar
