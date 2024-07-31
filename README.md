@@ -10,6 +10,6 @@ We can add new users.
 # Technologies used are :
 1)HTML
 2)CSS
-3)BOOTSTRAP
+3)JS
 4)PHP
 
